@@ -1,0 +1,22 @@
+{
+  "name": "@ymeiri/playground",
+  "version": "1.0.0",
+  "description": "simple npm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymeiri/npmTest.git"
+  },
+  "author": "Yuval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymeiri/npmTest/issues"
+  },
+  "homepage": "https://github.com/ymeiri/npmTest#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
